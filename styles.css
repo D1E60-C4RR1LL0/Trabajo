@@ -152,3 +152,18 @@ main{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.nose{
+    display: flex;
+    
+}
+.Imagenes-recomendaciones{
+    
+    margin-right: 1%;
+    
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
