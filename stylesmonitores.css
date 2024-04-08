@@ -157,8 +157,8 @@ main {
     padding-top: 100px;
 }
 
-img{
-    max-width: 100%;
+img {
+	width: 50%;
 }
 
 .container-img {
