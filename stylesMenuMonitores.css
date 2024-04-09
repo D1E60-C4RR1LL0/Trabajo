@@ -208,3 +208,9 @@ img{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+th, td {
+    width: 10%;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
